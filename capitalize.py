@@ -13,3 +13,7 @@ print(center.center(12,"$"))
 #4. count it count how many time value appear
 count = "peace"
 print(count.count("e"))
+
+#find it give the index which a word start that user input 
+find = "good morning scholar"
+print(find.find("scholar"))
